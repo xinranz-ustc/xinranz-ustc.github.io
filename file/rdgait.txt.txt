@@ -1,0 +1,220 @@
+This website uses cookies
+We occasionally run membership recruitment campaigns on social media channels and use cookies to track post-clicks. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services. Use the check boxes below to choose the types of cookies you consent to have stored on your device.
+
+Use necessary cookies onlyAllow selected cookiesAllow all cookies 
+NecessaryPreferencesStatisticsMarketing	Show details
+ 
+skip to main content
+ACM Digital Library home
+ 
+ACM Association for Computing Machinery corporate logo
+Univ of Science and Technology of China
+ 
+BrowseAbout
+Sign in Register
+Journals
+Magazines
+Proceedings
+Books
+SIGs
+Conferences
+People
+Search ACM Digital Library
+Search ACM Digital Library
+
+ Advanced Search
+Journal Home
+Just Accepted
+Latest Issue
+ 
+Archive
+Authors
+Award Winners
+Editors
+Reviewers
+Policies
+About
+Contact Us
+HomeACM JournalsProceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous TechnologiesVol. 8, No. 3RDGait: A mmWave Based Gait User Recognition System for Complex Indoor Environments Using Single-chip Radar
+RESEARCH-ARTICLE
+Share on
+RDGait: A mmWave Based Gait User Recognition System for Complex Indoor Environments Using Single-chip Radar
+Authors: Dequan Wang, Xinran Zhang, Kai Wang, Lingyu Wang, Xiaoran Fan, Yanyong ZhangAuthors Info & Claims
+Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Volume 8, Issue 3
+Article No.: 134, Pages 1 - 31
+https://doi.org/10.1145/3678552
+Published: 09 September 2024 Publication History
+
+7
+citation
+233
+Downloads
+
+
+
+PDF
+eReader
+
+Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+Volume 8, Issue 3
+Previous
+Next
+Abstract
+References
+Cited By
+Index Terms
+Recommendations
+Comments
+ACM Digital Library
+Information & Contributors
+Bibliometrics & Citations
+View Options
+References64
+Share
+Abstract
+In this paper, we aim to study millimeter-wave-based gait recognition in complex indoor environments, focusing on dealing with multipath ghosts and supporting rapid deployment to new environments. We design a ghost detection algorithm based on velocity change patterns. This algorithm relies solely on velocity estimation, requiring no environmental priors or multipath modeling. Hence, it is suitable for single-chip millimeter-wave radar with low angular resolution and can be conveniently deployed in new indoor settings. In addition, we build a gait recognition network based on an attention-based Recurrent Neural Network (RNN) to extract spatiotemporal-velocity features from RD heatmaps.
+We have evaluated RDGait in two scenarios: a corridor scenario and a crowded office scenario, with 125 volunteers of different genders and ages ranging from 6 to 63. RDGait achieves a user recognition accuracy exceeding 95% among 125 candidates in both scenarios. We have further deployed RDGait in two additional scenarios using the pretrain-finetune approach. With minimal user registration data, RDGait could achieve satisfactory (> 90%) recognition accuracy in these new environments considering different radar placements, heights, and number of co-existing users.
+References
+[1]
+Hervé Abdi. 2007. The Kendall rank correlation coefficient. Encyclopedia of Measurement and Statistics. Sage, Thousand Oaks, CA (2007), 508--510.
+Google Scholar
+[2]
+M Umair Bin Altaf, Taras Butko, and Biing-Hwang Juang. 2015. Acoustic gaits: Gait analysis with footstep sounds. IEEE Transactions on Biomedical Engineering(TBME) 62, 8 (2015), 2001--2011.
+Crossref
+Google Scholar
+[3]
+Dongjiang Cao, Ruofeng Liu, Hao Li, Shuai Wang, Wenchao Jiang, and Chris Xiaoxuan Lu. 2022. Cross vision-rf gait re-identification with low-cost rgb-d cameras and mmwave radars. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies(IMWUT) 6, 3 (2022), 1--25.
+Digital Library
+Google Scholar
+[4]
+Hanqing Chao, Kun Wang, Yiwei He, Junping Zhang, and Jianfeng Feng. 2022. GaitSet: Cross-View Gait Recognition Through Utilizing Gait As a Deep Set. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 44, 7 (2022), 3467--3478.
+Google Scholar
+
+Show all references
+Cited By
+View all
+Li BRen YWang YYang J(2024)SpaceBeat: Identity-aware Multi-person Vital Signs Monitoring Using Commodity WiFiProceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies10.1145/36785908:3(1-23)Online publication date: 9-Sep-2024
+https://dl.acm.org/doi/10.1145/3678590
+Pettys-Baker RClarke MHolschuh BKostakos VKay JHoang T(2024)Functional Now, Wearable Later: Examining the Design Practices of Wearable TechnologistsProceedings of the 2024 ACM International Symposium on Wearable Computers10.1145/3675095.3676615(71-81)Online publication date: 5-Oct-2024
+https://dl.acm.org/doi/10.1145/3675095.3676615
+Leng ZJung MHwang SOh SZhang LPlötz TKim KKostakos VKay JHoang T(2024)Emotion Recognition on the Go: Utilizing Wearable IMUs for Personalized Emotion RecognitionCompanion of the 2024 on ACM International Joint Conference on Pervasive and Ubiquitous Computing10.1145/3675094.3678452(537-544)Online publication date: 5-Oct-2024
+https://dl.acm.org/doi/10.1145/3675094.3678452
+Show More Cited By
+Index Terms
+RDGait: A mmWave Based Gait User Recognition System for Complex Indoor Environments Using Single-chip Radar
+Computer systems organization
+
+Embedded and cyber-physical systems
+
+Real-time systems
+
+Computing methodologies
+
+Artificial intelligence
+
+Computer vision
+
+Computer vision problems
+
+Computer vision tasks
+
+Hardware
+
+Communication hardware, interfaces and storage
+
+Signal processing systems
+
+Human-centered computing
+
+Ubiquitous and mobile computing
+
+Networks
+
+Network types
+
+Security and privacy
+
+Security services
+
+Authentication
+
+Index terms have been assigned to the content through auto-classification.
+Recommendations
+Radar Target Recognition Based on Complex HRRP Using Convolutional Neural Network
+SSPS '19: Proceedings of the 2019 International Symposium on Signal Processing Systems
+Owing to the initial phase of the complex high resolution range profile (HRRP) is sensitive, real HRRP is usually used in the radar automatic target recognition (RATR) field, which partially causes losing information of the data. Based on this, this ...
+
+Read More
+Human gait recognition at sagittal plane
+The reliable extraction of characteristic gait features from image sequences and their recognition are two important issues in gait recognition. In this paper, we propose a novel two-step, model-based approach to gait recognition by employing a five-...
+
+Read More
+Frontal view gait based recognition using PCA
+ACAI '11: Proceedings of the International Conference on Advances in Computing and Artificial Intelligence
+Gait is a biometric identification technology, which can identify people from distance, without user cooperation. This paper proposes a simple and efficient automatic gait recognition method taking frontal view silhouette of walking person using ...
+
+Read More
+Comments
+
+Download PDF
+View Issue’s Table of Contents
+Close modal
+Export Citations
+
+BibTeX
+@article{10.1145/3678552,
+author = {Wang, Dequan and Zhang, Xinran and Wang, Kai and Wang, Lingyu and Fan, Xiaoran and Zhang, Yanyong},
+title = {RDGait: A mmWave Based Gait User Recognition System for Complex Indoor Environments Using Single-chip Radar},
+year = {2024},
+issue_date = {August 2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {8},
+number = {3},
+url = {https://doi.org/10.1145/3678552},
+doi = {10.1145/3678552},
+abstract = {In this paper, we aim to study millimeter-wave-based gait recognition in complex indoor environments, focusing on dealing with multipath ghosts and supporting rapid deployment to new environments. We design a ghost detection algorithm based on velocity change patterns. This algorithm relies solely on velocity estimation, requiring no environmental priors or multipath modeling. Hence, it is suitable for single-chip millimeter-wave radar with low angular resolution and can be conveniently deployed in new indoor settings. In addition, we build a gait recognition network based on an attention-based Recurrent Neural Network (RNN) to extract spatiotemporal-velocity features from RD heatmaps.We have evaluated RDGait in two scenarios: a corridor scenario and a crowded office scenario, with 125 volunteers of different genders and ages ranging from 6 to 63. RDGait achieves a user recognition accuracy exceeding 95\% among 125 candidates in both scenarios. We have further deployed RDGait in two additional scenarios using the pretrain-finetune approach. With minimal user registration data, RDGait could achieve satisfactory (> 90\%) recognition accuracy in these new environments considering different radar placements, heights, and number of co-existing users.},
+journal = {Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.},
+month = sep,
+articleno = {134},
+numpages = {31},
+keywords = {ghost identification, human identification, mmWave radar}
+}
+
+
+Footer
+Categories
+Journals
+Magazines
+Books
+Proceedings
+SIGs
+Conferences
+Collections
+People
+About
+About ACM Digital Library
+ACM Digital Library Board
+Subscription Information
+Author Guidelines
+Using ACM Digital Library
+All Holdings within the ACM Digital Library
+ACM Computing Classification System
+Accessibility Statement
+Join
+Join ACM
+Join SIGs
+Subscribe to Publications
+Institutions and Libraries
+Connect
+Contact us via email
+ACM on Facebook
+ACM DL on X
+ACM on Linkedin
+Send Feedback
+Submit a Bug Report
+The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2024 ACM, Inc.
+Terms of Usage Privacy Policy Code of Ethics
+ACM Digital Library home ACM Association for Computing Machinery corporate logo
+
+Powered by
