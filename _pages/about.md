@@ -29,14 +29,14 @@ My research interest includes:
 - 3D Gaussian Splatting (3DGS)
 
 
-# 🔥 News
+# News
 + 2024.09.09: Our paper <a href="#-rdgait">**RDGait**</a> is accepted by IMWUT!
 + 2024.02.24: Our paper <a href="#-Map">**Map++**</a> is accepted by MobiCom 2024!
 + 2024.06.30: Our paper <a href="#-mmGaussain">**MM-Gaussian**</a> is accepted by IROS 2024!
 + 2024.01.29: Our paper <a href="#-occvo">**OCC-VO**</a> is accepted by ICRA 2024!
 + 2023.07.18: Our dataset paper <a href="#-ustcfly">**USTC FLICAR**</a> is accepted by IJRR!
 
-# 📝 Publications 
+# Publications 
 
 <span class='anchor' id='-rdgait'></span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="conference">IMWUT</div><img src='images/paper/rdgait.png' alt="sym" width="100%"></div></div>
@@ -148,7 +148,7 @@ My research interest includes:
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
+# Internships
 - *2022.06 - 2022.11*, Heterogenous Extreme Computing Group at Microsoft Research Asia ([MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)).
 
 <div style="display: flex; justify-content: center; align-items: center; height: 200px; margin: 0; padding: 0;">
