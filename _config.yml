@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinran Zhang Homepage"
-description              : "University of Science and Technology of China "
+description              : "University of Science and Technology of China"
 repository               : "xinranz-ustc/xinranz-ustc.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xinran Zhang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of Science and Technology of China"
+  bio              : "A Ph.D. student at USTC, focusing on SLAM, NeRF, and 3DGS. Open to collaboration!"
   location         : "Hefei, Anhui, China"
   employer         :
   pubmed           : 

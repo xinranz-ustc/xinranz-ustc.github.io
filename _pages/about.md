@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing a PhD at the School of Computer Science and Technology, University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)) under the supervision of Prof. [Yanyong Zhang](http://staff.ustc.edu.cn/~yanyongz/). Prior to that, I received my B.E. degree in 2020 from School of Computer Science and Technology at Chongqing University ([CQU](https://english.cqu.edu.cn/)).
+I am currently pursuing a Ph.D. student at the School of Computer Science and Technology, University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)) under the supervision of Prof. [Yanyong Zhang](http://staff.ustc.edu.cn/~yanyongz/). Prior to that, I received my B.E. degree in 2020 from School of Computer Science and Technology at Chongqing University ([CQU](https://english.cqu.edu.cn/)).
 
 My research interest includes:
 - Simultaneous Localization and Mapping (SLAM)
@@ -43,7 +43,7 @@ My research interest includes:
 - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
  
    <a href="https://dl.acm.org/doi/abs/10.1145/3678552" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
-    arxiv
+    link
 </a>
 <a href="https://github.com/DQ-WDQ/RDGait" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
     code
@@ -74,7 +74,7 @@ My research interest includes:
 
 
 <span class='anchor' id='-Map'></span>
-<div class='paper-box'><div class='paper-box-image'><div><div class="conference">MobiCom '24</div><img src='images/paper/map++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">MobiCom 2024</div><img src='images/paper/map++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Map++: Towards User-Participatory Visual SLAM Systems with Efficient Map Expansion and Sharing
