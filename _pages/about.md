@@ -79,7 +79,7 @@ My research interest includes:
 
 - Map++: Towards User-Participatory Visual SLAM Systems with Efficient Map Expansion and Sharing
 - `Xinran Zhang`, Hanqi Zhu, Yifan Duan, Wuyang Zhang, Longfei Shangguan, Yu Zhang, Jianmin Ji, Yanyong Zhang
-- ACM MobiCom '24: Proceedings of the 30th Annual International Conference on Mobile Computing and Networking
+- ACM MobiCom 2024: Proceedings of the 30th Annual International Conference on Mobile Computing and Networking
  
    <a href="https://dl.acm.org/doi/10.1145/3636534.3649386" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
     link
@@ -165,4 +165,13 @@ My research interest includes:
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2022.06 - 2022.11*, Heterogenous Extreme Computing Group at Microsoft Research Asia [MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/).
+- *2022.06 - 2022.11*, Heterogenous Extreme Computing Group at Microsoft Research Asia ([MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)).
+
+<div style="display: flex; justify-content: center; align-items: center; height: 200px; margin: 0; padding: 0;">
+    <div style="flex: 0 1 200px; margin-right: 20px;"> <!-- Adjusted flex-grow to 0 and flex-basis to 200px -->
+        <img style="width: 100%; height: auto;" src="/images/ustcxhjpg/ustcblue.jpg" alt="USTC">
+    </div>
+    <div style="flex: 0 1 300px;"> <!-- Adjusted flex-grow to 0 and flex-basis to 300px -->
+        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BCzXnllK7DALNmWsuEPPoh2DRAH282QR2m3XPzLQJkg&cl=ffffff&w=a"></script>
+    </div>
+</div>
