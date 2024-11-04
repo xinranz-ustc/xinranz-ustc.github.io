@@ -39,7 +39,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 - RDGait: A mmWave Based Gait User Recognition System for Complex Indoor Environments Using Single-chip Radar
--	Dequan Wang, `Xinran Zhang`, Kai Wang, Lingyu Wang, Xiaoran Fan, Yanyong Zhang
+-	Dequan Wang, Xinran Zhang, Kai Wang, Lingyu Wang, Xiaoran Fan, Yanyong Zhang
 - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
  
    <a href="https://dl.acm.org/doi/abs/10.1145/3678552" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
@@ -59,7 +59,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 - MM-Gaussian: 3D Gaussian-based Multi-modal Fusion for Localization and Reconstruction in Unbounded Scenes  
--	Chenyang Wu, Yifan Duan, `Xinran Zhang`, Yu Sheng, Jianmin Ji, Yanyong Zhang
+-	Chenyang Wu, Yifan Duan, Xinran Zhang, Yu Sheng, Jianmin Ji, Yanyong Zhang
 - 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
    <a href="https://arxiv.org/abs/2404.04026" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
@@ -78,7 +78,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 - Map++: Towards User-Participatory Visual SLAM Systems with Efficient Map Expansion and Sharing
-- `Xinran Zhang`, Hanqi Zhu, Yifan Duan, Wuyang Zhang, Longfei Shangguan, Yu Zhang, Jianmin Ji, Yanyong Zhang
+- Xinran Zhang, Hanqi Zhu, Yifan Duan, Wuyang Zhang, Longfei Shangguan, Yu Zhang, Jianmin Ji, Yanyong Zhang
 - ACM MobiCom 2024: Proceedings of the 30th Annual International Conference on Mobile Computing and Networking
  
    <a href="https://dl.acm.org/doi/10.1145/3636534.3649386" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
@@ -95,7 +95,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 - MM-Gaussian: 3D Gaussian-based Multi-modal Fusion for Localization and Reconstruction in Unbounded Scenes
--	Chenyang Wu, Yifan Duan, `Xinran Zhang`, Yu Sheng, Jianmin Ji, Yanyong Zhang
+-	Chenyang Wu, Yifan Duan, Xinran Zhang, Yu Sheng, Jianmin Ji, Yanyong Zhang
 - 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
  
    <a href="https://arxiv.org/abs/2404.04026" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
@@ -115,7 +115,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 - OCC-VO: Dense Mapping via 3D Occupancy-Based Visual Odometry for Autonomous Driving
--	Heng Li, Yifan Duan, `Xinran Zhang`, Haiyi Liu, Jianmin Ji, Yanyong Zhang
+-	Heng Li, Yifan Duan, Xinran Zhang, Haiyi Liu, Jianmin Ji, Yanyong Zhang
 - 2024 IEEE International Conference on Robotics and Automation (ICRA)
  
    <a href="https://arxiv.org/abs/2309.11011" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
@@ -135,7 +135,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 - USTC FLICAR: A sensors fusion dataset of LiDAR-inertial-camera for heavy-duty autonomous aerial work robots
--	Ziming Wang, Yujiang Liu, Yifan Duan, Xingchen Li, `Xinran Zhang`, Jianmin Ji, Erbao Dong, Yanyong Zhang
+-	Ziming Wang, Yujiang Liu, Yifan Duan, Xingchen Li, Xinran Zhang, Jianmin Ji, Erbao Dong, Yanyong Zhang
 - The International Journal of Robotics Research (IJRR)
  
    <a href="https://arxiv.org/abs/2304.01986" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
