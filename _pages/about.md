@@ -17,7 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# About Me
+
 I am currently pursuing a Ph.D. at the School of Computer Science and Technology, University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)) under the supervision of Prof. [Yanyong Zhang](http://staff.ustc.edu.cn/~yanyongz/). Prior to that, I received my B.E. degree in 2020 from School of Computer Science and Technology at Chongqing University ([CQU](https://english.cqu.edu.cn/)).
+
+
 
 My research interest includes:
 - Simultaneous Localization and Mapping (SLAM)
