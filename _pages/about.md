@@ -55,7 +55,7 @@ My research interest includes:
 </div>
 
 <span class='anchor' id='-MM-Gaussian'></span>
-<div class='paper-box'><div class='paper-box-image'><div><div class="conference">IROS 2024</div><img src='images/paper/MM-Gaussian.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">IROS 2024</div><img src='images/paper/mmGaussian.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - MM-Gaussian: 3D Gaussian-based Multi-modal Fusion for Localization and Reconstruction in Unbounded Scenes  
@@ -85,26 +85,6 @@ My research interest includes:
     link
 </a>
 <a href="/file/map++.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
-    BibTeX
-</a>
-</div>
-</div>
-
-<span class='anchor' id='-mmGaussain'></span>
-<div class='paper-box'><div class='paper-box-image'><div><div class="conference">IROS 2024</div><img src='images/paper/mmGaussian.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- MM-Gaussian: 3D Gaussian-based Multi-modal Fusion for Localization and Reconstruction in Unbounded Scenes
--	Chenyang Wu, Yifan Duan, Xinran Zhang, Yu Sheng, Jianmin Ji, Yanyong Zhang
-- 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
- 
-   <a href="https://arxiv.org/abs/2404.04026" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
-    arxiv
-</a>
-<!-- <a href="https://github.com/USTCLH/OCC-VO" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
-    code
-</a> -->
-<a href="/file/mmGaussain.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
     BibTeX
 </a>
 </div>
