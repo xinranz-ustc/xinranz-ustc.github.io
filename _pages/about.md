@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing a Ph.D. student at the School of Computer Science and Technology, University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)) under the supervision of Prof. [Yanyong Zhang](http://staff.ustc.edu.cn/~yanyongz/). Prior to that, I received my B.E. degree in 2020 from School of Computer Science and Technology at Chongqing University ([CQU](https://english.cqu.edu.cn/)).
+I am currently pursuing a Ph.D. at the School of Computer Science and Technology, University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)) under the supervision of Prof. [Yanyong Zhang](http://staff.ustc.edu.cn/~yanyongz/). Prior to that, I received my B.E. degree in 2020 from School of Computer Science and Technology at Chongqing University ([CQU](https://english.cqu.edu.cn/)).
 
 My research interest includes:
 - Simultaneous Localization and Mapping (SLAM)
@@ -91,7 +91,7 @@ My research interest includes:
 </div>
 
 <span class='anchor' id='-mmGaussain'></span>
-<div class='paper-box'><div class='paper-box-image'><div><div class="conference">IROS 2024</div><img src='images/paper/mmGaussain.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">IROS 2024</div><img src='images/paper/mmGaussian.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - MM-Gaussian: 3D Gaussian-based Multi-modal Fusion for Localization and Reconstruction in Unbounded Scenes
