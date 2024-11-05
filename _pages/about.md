@@ -151,11 +151,11 @@ My research interest includes:
 # Internships
 - *2022.06 - 2022.11*, Heterogenous Extreme Computing Group at Microsoft Research Asia ([MSRA](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)).
 
-<div style="display: flex; justify-content: center; align-items: center; height: 200px; margin: 0; padding: 0;">
+<!-- <div style="display: flex; justify-content: center; align-items: center; height: 200px; margin: 0; padding: 0;">
     <div style="flex: 0 1 200px; margin-right: 20px;"> <!-- Adjusted flex-grow to 0 and flex-basis to 200px -->
         <img style="width: 100%; height: auto;" src="/images/ustcxhjpg/ustcblue.jpg" alt="USTC">
     </div>
     <!-- <div style="flex: 0 1 300px;"> <!-- Adjusted flex-grow to 0 and flex-basis to 300px -->
-        <!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BCzXnllK7DALNmWsuEPPoh2DRAH282QR2m3XPzLQJkg&cl=ffffff&w=a"></script>
-    </div> --> -->
-</div>
+        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BCzXnllK7DALNmWsuEPPoh2DRAH282QR2m3XPzLQJkg&cl=ffffff&w=a"></script>
+    </div> -->
+</div> -->
