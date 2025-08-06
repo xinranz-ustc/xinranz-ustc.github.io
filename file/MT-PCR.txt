@@ -1,0 +1,6 @@
+@article{wu2025mt,
+  title={MT-PCR: Leveraging Modality Transformation for Large-Scale Point Cloud Registration with Limited Overlap},
+  author={Wu, Yilong and Duan, Yifan and Chen, Yuxi and Zhang, Xinran and Shen, Yedong and Ji, Jianmin and Zhang, Yanyong and Zhang, Lu},
+  journal={arXiv preprint arXiv:2503.12833},
+  year={2025}
+}

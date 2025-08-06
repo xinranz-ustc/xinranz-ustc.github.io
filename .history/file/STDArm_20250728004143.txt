@@ -1,0 +1,6 @@
+@article{duan2025stdarm,
+  title={STDArm: Transferring Visuomotor Policies From Static Data Training to Dynamic Robot Manipulation},
+  author={Duan, Yifan and Li, Heng and Wu, Yilong and Yu, Wenhao and Zhang, Xinran and Shen, Yedong and Ji, Jianmin and Zhang, Yanyong},
+  journal={arXiv preprint arXiv:2504.18792},
+  year={2025}
+}

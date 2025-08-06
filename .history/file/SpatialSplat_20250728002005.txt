@@ -1,0 +1,6 @@
+@article{sheng2025spatialsplat,
+  title={SpatialSplat: Efficient Semantic 3D from Sparse Unposed Images},
+  author={Sheng, Yu and Deng, Jiajun and Zhang, Xinran and Zhang, Yu and Hua, Bei and Zhang, Yanyong and Ji, Jianmin},
+  journal={arXiv preprint arXiv:2505.23044},
+  year={2025}
+}
