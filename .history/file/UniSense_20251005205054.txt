@@ -1,0 +1,6 @@
+@article{zhu2025urgengo,
+  title={UrgenGo: Urgency-Aware Transparent GPU Kernel Launching for Autonomous Driving},
+  author={Zhu, Hanqi and Zhang, Wuyang and Zhang, Xinran and Tao, Ziyang and Lin, Xinrui and Zhang, Yu and Ji, Jianmin and Zhang, Yanyong},
+  journal={arXiv preprint arXiv:2509.12207},
+  year={2025}
+}

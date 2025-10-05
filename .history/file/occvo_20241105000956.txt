@@ -1,0 +1,10 @@
+@INPROCEEDINGS{10611516,
+  author={Li, Heng and Duan, Yifan and Zhang, Xinran and Liu, Haiyi and Ji, Jianmin and Zhang, Yanyong},
+  booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  title={OCC-VO: Dense Mapping via 3D Occupancy-Based Visual Odometry for Autonomous Driving}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={17961-17967},
+  keywords={Three-dimensional displays;Accuracy;Simultaneous localization and mapping;Heuristic algorithms;Semantics;Filtering algorithms;Cameras},
+  doi={10.1109/ICRA57147.2024.10611516}}

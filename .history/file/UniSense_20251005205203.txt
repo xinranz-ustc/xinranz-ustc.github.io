@@ -1,0 +1,7 @@
+@inproceedings{ren2025unisense,
+  title={UniSense: Spatial-Uncertainty-Aware Collaborative Sensing for Autonomous Driving},
+  author={Ren, Haojie and Zhang, Wuyang and Shi, Shuyao and Zhang, Xinran and Zhang, Lu and Zhang, Yanyong},
+  booktitle={Proceedings of the 23rd Annual International Conference on Mobile Systems, Applications and Services},
+  pages={459--472},
+  year={2025}
+}
