@@ -99,7 +99,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 - STDArm: Transfer Visuomotor Policy From Static Data Training to Dynamic Robot Manipulation
--	Yifan Duan, Heng Li, Yilong Wu, Wenhao Yu, Xinran zhang, Yedong Shen, Wuyang Zhang, Jianmin Ji, Yanyong Zhang
+-	Yifan Duan, Heng Li, Yilong Wu, Wenhao Yu, Xinran zhang, Yedong Shen, Jianmin Ji, Yanyong Zhang
 - Robotics: Science and Systems 2025 (RSS)
  
    <a href="https://arxiv.org/pdf/2504.18792" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
