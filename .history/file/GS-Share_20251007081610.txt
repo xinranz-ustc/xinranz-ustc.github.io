@@ -1,0 +1,8 @@
+@inproceedings{duan2025cellmap,
+  title={Cellmap: Enhancing lidar slam through elastic and lightweight spherical map representation},
+  author={Duan, Yifan and Zhang, Xinran and Li, Yao and You, Guoliang and Chu, Xiaomeng and Ji, Jianmin and Zhang, Yanyong},
+  booktitle={2025 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={12194--12200},
+  year={2025},
+  organization={IEEE}
+}
